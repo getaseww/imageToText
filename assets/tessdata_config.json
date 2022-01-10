@@ -1,0 +1,18 @@
+{
+  "files": [
+    "amh.traineddata",
+    "chi_sim.traineddata",
+    "eng.traineddata",
+    "fra.traineddata",
+    "hin.traineddata",
+    "ita.traineddata",
+    "jpn.traineddata",
+    "kor.traineddata",
+    "lat.traineddata",
+    "rus.traineddata",
+    "spa.traineddata",
+    "swa.traineddata",
+    "tir.traineddata",
+    "tur.traineddata"
+  ]
+}
