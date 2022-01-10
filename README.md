@@ -1,6 +1,6 @@
 # ocr
 
-A new Flutter project.
+A Flutter project which extracts text from the image. It works in more that 15 languages
 
 ## Getting Started
 
